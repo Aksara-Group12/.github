@@ -1,30 +1,17 @@
 <div align="center">
-  
-  <!-- Animated Header dengan Warna Brand Aksara -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f131c,100:1a202c&height=220&section=header&text=Aksara%20Group&fontSize=55&fontAlignY=38&desc=High-Craft%20Digital%20Engineering%20%26%20Software%20Studio&descAlignY=58&descAlign=62&animation=twinkling&fontColor=4cd7f6&stroke=4cd7f6&strokeWidth=1" width="100%" />
 
-  <br />
-  
-  <h2>👋 Selamat Datang di Aksara Group</h2>
-  <p align="center" style="max-width: 600px;">
-    Kami adalah studio pengembangan perangkat lunak yang berfokus pada pembangunan arsitektur web yang tangguh, sistem terdistribusi tingkat enterprise, dan pengalaman digital modern untuk UMKM & Startup Indonesia.
-  </p>
+# 👋 Selamat Datang di Aksara Group
 
-  <br />
+**High-Craft Digital Engineering Consultancy & Specialized Software Studio**
 
-  <!-- Statistik Organisasi Dinamis -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aksara-Group12&show_icons=true&theme=dark&hide_border=true&title_color=4cd7f6&icon_color=4cd7f6&text_color=ffffff&bg_color=0d1117" alt="Organization Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksara-Group12&layout=compact&theme=dark&hide_border=true&title_color=4cd7f6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+Kami membangun arsitektur web yang tangguh, sistem terdistribusi tingkat enterprise, dan pengalaman digital modern untuk UMKM & Startup Indonesia.
 
-  <br />
+<br />
+
+[![Website](https://img.shields.io/badge/Website-aksaradeveloper.com-4cd7f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aksaradeveloper.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_821--2566--3197-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282125663197)
+[![Email](https://img.shields.io/badge/Email-partnership@aksaradeveloper.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partnership@aksaradeveloper.com)
+
 </div>
 
 ---
@@ -53,10 +40,28 @@ Kami mengembangkan solusi digital *end-to-end*, mulai dari sistem manajemen bisn
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <a href="https://github.com/Faraysz/aksara-site"><strong>Lihat Repository →</strong></a>
+      <a href="https://github.com/Aksara-Group12/Aksara-Site"><strong>Lihat Repository →</strong></a>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>🐉 Dragon-Fruit System</h3>
+      <p>Aplikasi web manajemen dan katalog modern berbasis Laravel, dirancang untuk efisiensi operasional dan antarmuka yang elegan.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-ef3b2d?style=flat-square&logo=laravel&logoColor=white" />
+      </p>
+      <a href="https://github.com/Faizulwildan/Dragon-Fruit"><strong>Lihat Repository →</strong></a>
+    </td>
+    <td width="50%">
+      <h3>🎫 Web Ticketing Ferinesia</h3>
+      <p>Prototipe platform pemesanan tiket transportasi berbasis HTML/CSS/JS Native dengan alur pemesanan 8 langkah yang terstruktur.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/Faraysz/Web-Ticketing-Ferinesia"><strong>Lihat Repository →</strong></a>
+    </td>
   </tr>
 </table>
 
@@ -74,10 +79,20 @@ Kami memilih *tools* terbaik untuk memastikan performa, skalabilitas, dan pengal
 
 ---
 
-## 📊 Aktivitas Kontribusi
+## 📊 Statistik Organisasi
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksara-Group12&theme=react-dark&line=4cd7f6&point=ffffff&area=true&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
+
+| Total Repositories | Top Languages |
+|:---:|:---:|
+| ![Repo Count](https://img.shields.io/github/repo-count/Aksara-Group12?style=for-the-badge&color=4cd7f6&label=Repositories) | ![Top Langs](https://img.shields.io/github/languages/count/Aksara-Group12?style=for-the-badge&color=4cd7f6&label=Languages) |
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksara-Group12&layout=compact&theme=dark&hide_border=true&title_color=4cd7f6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
@@ -88,16 +103,16 @@ Kami selalu terbuka untuk diskusi, kolaborasi proyek, atau sekadar bertukar piki
 
 <div align="center">
 
-| 🌐 Website | ✉️ Email | 💬 WhatsApp |
+|  Website | ✉️ Email | 💬 WhatsApp |
 | :---: | :---: | :---: |
-| [aksaradeveloper.com](https://aksaradeveloper.my.id) | [partnership@aksaradeveloper.com](mailto:partnership@aksaradeveloper.com) | [+62 813-1355-613](https://wa.me/628131355613) |
+| [aksaradeveloper.com](https://aksaradeveloper.com) | [partnership@aksaradeveloper.com](mailto:partnership@aksaradeveloper.com) | [+62 821-2566-3197](https://wa.me/6282125663197) |
 
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Dibuat dengan ☕ dan kode yang bersih oleh Tim Aksara Group</sub>
+  <sub>Dibuat dengan ❤️, ☕, dan kode yang bersih oleh Tim Aksara Group</sub>
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=Aksara-Group12&color=4cd7f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
