@@ -44,24 +44,6 @@ Kami mengembangkan solusi digital *end-to-end*, mulai dari sistem manajemen bisn
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🐉 Dragon-Fruit System</h3>
-      <p>Aplikasi web manajemen dan katalog modern berbasis Laravel, dirancang untuk efisiensi operasional dan antarmuka yang elegan.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blade-ef3b2d?style=flat-square&logo=laravel&logoColor=white" />
-      </p>
-      <a href="https://github.com/Faizulwildan/Dragon-Fruit"><strong>Lihat Repository →</strong></a>
-    </td>
-    <td width="50%">
-      <h3>🎫 Web Ticketing Ferinesia</h3>
-      <p>Prototipe platform pemesanan tiket transportasi berbasis HTML/CSS/JS Native dengan alur pemesanan 8 langkah yang terstruktur.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/Faraysz/Web-Ticketing-Ferinesia"><strong>Lihat Repository →</strong></a>
-    </td>
   </tr>
 </table>
 
