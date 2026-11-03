@@ -8,7 +8,7 @@ Kami membangun arsitektur web yang tangguh, sistem terdistribusi tingkat enterpr
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-aksaradeveloper.com-4cd7f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aksaradeveloper.com)
+[![Website](https://img.shields.io/badge/Website-aksaradeveloper.my.id-4cd7f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aksaradeveloper.my.id)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_813--1355--613-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628131355613)
 [![Email](https://img.shields.io/badge/Email-partnership@aksaradeveloper.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partnership@aksaradeveloper.com)
 
@@ -87,7 +87,7 @@ Kami selalu terbuka untuk diskusi, kolaborasi proyek, atau sekadar bertukar piki
 
 |  Website | ✉️ Email | 💬 WhatsApp |
 | :---: | :---: | :---: |
-| [aksaradeveloper.com](https://aksaradeveloper.com) | [partnership@aksaradeveloper.com](mailto:partnership@aksaradeveloper.com) | [+62 813-1355-613](https://wa.me/628131355613) |
+| [aksaradeveloper.my.id](https://aksaradeveloper.my.id) | [partnership@aksaradeveloper.com](mailto:partnership@aksaradeveloper.com) | [+62 813-1355-613](https://wa.me/628131355613) |
 
 </div>
 
